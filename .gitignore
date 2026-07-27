@@ -24,3 +24,9 @@ __pycache__/
 # Coverage
 .coverage
 htmlcov/
+
+# Data
+Data/
+
+# ADK
+.adk/
